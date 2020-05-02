@@ -1,0 +1,9 @@
+(assert
+	(estado-paciente
+		(temperatura 39)
+		(tos no)
+		(fatiga no)
+		(respiracion no)
+		(diarrea no)
+		(perdidagusto no)
+		(dolormusculos si)))
